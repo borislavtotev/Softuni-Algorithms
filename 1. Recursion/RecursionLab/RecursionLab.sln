@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_RecursiveArray", "01_RecursiveArray\01_RecursiveArray.csproj", "{BA968BAB-BA38-49B2-8DA3-4D53D7A8C44C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_QueensPuzzle", "02_QueensPuzzle\02_QueensPuzzle.csproj", "{0F1B05B0-32AD-4EFE-BD01-7D073E6F0559}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA968BAB-BA38-49B2-8DA3-4D53D7A8C44C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA968BAB-BA38-49B2-8DA3-4D53D7A8C44C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA968BAB-BA38-49B2-8DA3-4D53D7A8C44C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA968BAB-BA38-49B2-8DA3-4D53D7A8C44C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F1B05B0-32AD-4EFE-BD01-7D073E6F0559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F1B05B0-32AD-4EFE-BD01-7D073E6F0559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F1B05B0-32AD-4EFE-BD01-7D073E6F0559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F1B05B0-32AD-4EFE-BD01-7D073E6F0559}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

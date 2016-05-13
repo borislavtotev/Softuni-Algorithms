@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_ShortestPathInMatrix", "01_ShortestPathInMatrix\01_ShortestPathInMatrix.csproj", "{AA47D89A-AB49-4924-931B-7D8B3D49107E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_RectangleIntersection", "02_RectangleIntersection\02_RectangleIntersection.csproj", "{280446F5-95C5-4064-AF15-42895E3C0334}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA47D89A-AB49-4924-931B-7D8B3D49107E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA47D89A-AB49-4924-931B-7D8B3D49107E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA47D89A-AB49-4924-931B-7D8B3D49107E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA47D89A-AB49-4924-931B-7D8B3D49107E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{280446F5-95C5-4064-AF15-42895E3C0334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280446F5-95C5-4064-AF15-42895E3C0334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280446F5-95C5-4064-AF15-42895E3C0334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280446F5-95C5-4064-AF15-42895E3C0334}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

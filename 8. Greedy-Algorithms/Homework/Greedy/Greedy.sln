@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_FractionalKnapsackProblem", "01_FractionalKnapsackProblem\01_FractionalKnapsackProblem.csproj", "{A216151A-4CF5-4D96-824C-55C7D62CC7B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_ProcessorScheduling", "02_ProcessorScheduling\02_ProcessorScheduling.csproj", "{3A742B1F-B220-4B6F-BA66-7ABD922FA3BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_KnightTour", "03_KnightTour\03_KnightTour.csproj", "{0831349E-AECA-4D31-A61C-411A2A4CBC97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_BestLecturesSchedule", "04_BestLecturesSchedule\04_BestLecturesSchedule.csproj", "{35AF17B8-30C3-44D7-8462-46DEDDDFA4EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_EgyptianFractions", "05_EgyptianFractions\05_EgyptianFractions.csproj", "{78868F46-32F4-40B6-9FFC-EE83A5F81400}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A216151A-4CF5-4D96-824C-55C7D62CC7B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A216151A-4CF5-4D96-824C-55C7D62CC7B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A216151A-4CF5-4D96-824C-55C7D62CC7B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A216151A-4CF5-4D96-824C-55C7D62CC7B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A742B1F-B220-4B6F-BA66-7ABD922FA3BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A742B1F-B220-4B6F-BA66-7ABD922FA3BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A742B1F-B220-4B6F-BA66-7ABD922FA3BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A742B1F-B220-4B6F-BA66-7ABD922FA3BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0831349E-AECA-4D31-A61C-411A2A4CBC97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0831349E-AECA-4D31-A61C-411A2A4CBC97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0831349E-AECA-4D31-A61C-411A2A4CBC97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0831349E-AECA-4D31-A61C-411A2A4CBC97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35AF17B8-30C3-44D7-8462-46DEDDDFA4EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35AF17B8-30C3-44D7-8462-46DEDDDFA4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35AF17B8-30C3-44D7-8462-46DEDDDFA4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35AF17B8-30C3-44D7-8462-46DEDDDFA4EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78868F46-32F4-40B6-9FFC-EE83A5F81400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78868F46-32F4-40B6-9FFC-EE83A5F81400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78868F46-32F4-40B6-9FFC-EE83A5F81400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78868F46-32F4-40B6-9FFC-EE83A5F81400}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

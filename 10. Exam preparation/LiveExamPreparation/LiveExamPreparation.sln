@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Parenthesis", "01_Parenthesis\01_Parenthesis.csproj", "{D6F91EAA-2609-4DDA-B7AF-97ADE6C5A7EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Guitar", "02_Guitar\02_Guitar.csproj", "{23012C36-03EE-41F8-A5E9-88208E83AF1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Towns", "03_Towns\03_Towns.csproj", "{E5C1EAA8-0C14-4235-9CBB-713A73C092D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_FastAndFurious", "04_FastAndFurious\04_FastAndFurious.csproj", "{F4045CA0-B84E-4CD2-BD40-7DF7EED40C8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Election", "05_Election\05_Election.csproj", "{6E9345EC-E756-4E3F-94B5-E889EF936085}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Renewal", "06_Renewal\06_Renewal.csproj", "{E18F2ECA-CDD4-4219-8F9E-5D4227064B04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6F91EAA-2609-4DDA-B7AF-97ADE6C5A7EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F91EAA-2609-4DDA-B7AF-97ADE6C5A7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F91EAA-2609-4DDA-B7AF-97ADE6C5A7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F91EAA-2609-4DDA-B7AF-97ADE6C5A7EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23012C36-03EE-41F8-A5E9-88208E83AF1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23012C36-03EE-41F8-A5E9-88208E83AF1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23012C36-03EE-41F8-A5E9-88208E83AF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23012C36-03EE-41F8-A5E9-88208E83AF1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5C1EAA8-0C14-4235-9CBB-713A73C092D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5C1EAA8-0C14-4235-9CBB-713A73C092D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5C1EAA8-0C14-4235-9CBB-713A73C092D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5C1EAA8-0C14-4235-9CBB-713A73C092D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4045CA0-B84E-4CD2-BD40-7DF7EED40C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4045CA0-B84E-4CD2-BD40-7DF7EED40C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4045CA0-B84E-4CD2-BD40-7DF7EED40C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4045CA0-B84E-4CD2-BD40-7DF7EED40C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E9345EC-E756-4E3F-94B5-E889EF936085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E9345EC-E756-4E3F-94B5-E889EF936085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E9345EC-E756-4E3F-94B5-E889EF936085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E9345EC-E756-4E3F-94B5-E889EF936085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E18F2ECA-CDD4-4219-8F9E-5D4227064B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E18F2ECA-CDD4-4219-8F9E-5D4227064B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E18F2ECA-CDD4-4219-8F9E-5D4227064B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E18F2ECA-CDD4-4219-8F9E-5D4227064B04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
